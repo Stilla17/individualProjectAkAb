@@ -2,7 +2,9 @@ import React from 'react'
 
 const Section = () => {
   return (
-    <div>Abdummanop</div>
+    <div>
+      <h1>Salom</h1>
+    </div>
   )
 }
 
